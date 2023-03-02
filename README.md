@@ -1,11 +1,16 @@
-##  Welcome to here!
+##  欢迎来到解密小游戏！
 
-Current themes:
+[Github](https://github.com/SREray/sreray.github.io/)
 
-- [riddle](/riddle/)
+有很多系列（或者叫主题）的小游戏，系列之间没有依赖关系。
 
-Of course you can look at the source and get the answer, but that is not interesting, though. We come here to find happiness, don't we?
+除特殊说明外，所有的系列都不需要用到 F12。部分页面有 `源码` 字样的折叠框，其中是本页面的 Markdown 源码，保证该部分是正确的。
 
-If you do want the answer, type `/answer/` after the themes (e.g. `/riddle/answer/`), and you will find the answer there.
+目前的系列：
 
-**Enjoy!**
+- [riddle](/riddle)
+- [regex](/regex)
+
+你当然可以查看 github 源码来找答案，但那样就失去乐趣了，不是吗？
+
+如果你真的想知道答案，可以在主题的链接后面输入 `/answer/`，比如 `/riddle` 的答案就是 `/riddle/answer/`。
