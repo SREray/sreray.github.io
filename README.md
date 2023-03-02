@@ -17,6 +17,10 @@
 
 如果你真的想知道答案，可以在主题的链接后面输入 `/answer/`，比如 `/riddle` 的答案就是 `/riddle/answer/`。（答案不会包含彩蛋哦）
 
+```cpp
+test.
+```
+
 --------
 
 <details><summary>**源码**</summary>
