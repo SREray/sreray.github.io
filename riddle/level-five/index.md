@@ -12,4 +12,6 @@
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-下一关是[这里](/riddle/o04azmml)<div style="color:#F2F2F2" onclick="window.open('/riddle/bmV4dCBsZXZlbDogZWZqODQ2cTU=','_self')">才怪，是这里</div>
+下一关是[这里](/riddle/o04azmml)
+
+<div style="color:#F2F2F2" onclick="window.open('/riddle/bmV4dCBsZXZlbDogZWZqODQ2cTU=','_self')">才怪，是这里</div>
