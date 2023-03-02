@@ -7,6 +7,7 @@
 --------
 
 <details><summary>**源码**</summary>
+
 ``` markdown
 **彩蛋**
 
@@ -14,4 +15,5 @@
 
 [返回上一关](/riddle/level-2)
 ```
+
 </details>
