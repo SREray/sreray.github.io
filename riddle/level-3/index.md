@@ -1,4 +1,4 @@
-**彩蛋**
+**陷阱**
 
 编号：`5om+6KeE5b6L5aSn5biI`
 
@@ -7,7 +7,7 @@
 --------
 
 <details><summary>源码</summary><pre>
-**彩蛋**
+**陷阱**
 
 编号：`5om+6KeE5b6L5aSn5biI`
 

@@ -1,4 +1,4 @@
-**彩蛋**
+**陷阱**
 
 编号：`6K+v5YWl5q2n6YCU`
 
@@ -9,7 +9,7 @@
 --------
 
 <details><summary>源码</summary><pre>
-**彩蛋**
+**陷阱**
 
 编号：`6K+v5YWl5q2n6YCU`
 
