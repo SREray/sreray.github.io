@@ -4,12 +4,8 @@
 
 --------
 
-<details><summary>**源码**</summary>
-
-``` markdown
+<details><summary>源码</summary><pre>
 **Level 3**
 
 请进入下一关。
-```
-
-</details>
+</pre></details>
