@@ -12,7 +12,7 @@
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-下一关是[这里](/riddle/o04azmml)<a href="/riddle/bmV4dCBsZXZlbDogZWZqODQ2cTU="><div style="color=#f2f2f2">才怪，是这里</div></a>
+下一关是[这里](/riddle/o04azmml)<a href="/riddle/bmV4dCBsZXZlbDogZWZqODQ2cTU="><font color=#f2f2f2>才怪，是这里</font></a>
 
 --------
 
