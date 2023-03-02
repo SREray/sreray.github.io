@@ -7,3 +7,5 @@
  - [Level 4](/riddle/level--4)
  - [Level 5](/riddle/level-five)
  - [Level 6](/riddle/efj846q5)
+ - [Level 7](/riddle/lc1absnv)
+ - [Level 8](/riddle/stawayie)
