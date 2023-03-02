@@ -1,4 +1,4 @@
-##  欢迎来到解密小游戏！
+欢迎来到解密小游戏！
 
 [Github](https://github.com/SREray/sreray.github.io/)
 
