@@ -1,9 +1,13 @@
-##  Welcome to my riddle!
+##  Welcome to riddle!
 
 My social account: @XxEray
 
-Start by these links:
+Current themes:
 
-- (none)
+- [riddle](/riddle/)
 
-To be continued.
+Of course you can look at the code and get the answer, but that is not interesting, though. We come here to find happiness, don't we?
+
+If you do want the answer, type `/answer/` after the themes (e.g. `/riddle/answer/`), and you will find the answer there.
+
+**Enjoy!**
