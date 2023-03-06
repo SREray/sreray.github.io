@@ -1,0 +1,131 @@
+n = 50
+0: entry
+	A: 8,sx8glkp7
+	B: 10,ksxc5wb3
+	C: 11,5lzntt48
+	D: 1,9n3rxtss
+	E: 47,bundi87l
+	F: 2,kz3cyrgh
+1: 9n3rxtss
+	A: 4,bsoogy88
+	B: 3,bpxe6bgv
+	C: 13,nl6z0n3e
+2: kz3cyrgh
+	A: 29,85x0y1vt
+3: bpxe6bgv
+	A: 17,wwlgmft8
+	B: 49,swu8ndyc
+	C: 6,42cqtsb8
+4: bsoogy88
+	A: 5,r8pf8jl6
+	B: 36,eeltpimv
+	C: 33,2nq4qw94
+	D: 7,704kinga
+5: r8pf8jl6
+	A: exit
+6: 42cqtsb8
+	A: 14,t3gaay5m
+	B: 26,g7rpih6z
+	C: 19,1wlkir1d
+7: 704kinga
+	A: 40,dd97mow6
+8: sx8glkp7
+	A: 32,rns8yz7t
+	B: 44,pybdactf
+	C: 16,a2k8hirh
+	D: 28,e4269wle
+	E: 9,ohnu7nao
+9: ohnu7nao
+	A: 44,pybdactf
+10: ksxc5wb3
+	A: 12,isa01cci
+	B: 48,0azjmyoa
+11: 5lzntt48
+	A: 30,ebvr8k1l
+	B: 21,ekwg1hov
+12: isa01cci
+	A: 49,swu8ndyc
+13: nl6z0n3e
+	A: 38,ylm95nec
+14: t3gaay5m
+	A: 41,llp1sr71
+	B: 15,fcz4lvbv
+15: fcz4lvbv
+	A: 38,ylm95nec
+16: a2k8hirh
+	A: 24,00n1uv6u
+	B: 22,nhn19jwh
+	C: 18,w5v25af5
+17: wwlgmft8
+	A: 43,la4xdkhr
+	B: 37,4ag97hck
+	C: 20,cubbpggt
+18: w5v25af5
+	A: 39,7hsrzkvv
+19: 1wlkir1d
+	A: 23,mwt19jcs
+	B: 34,eiresbur
+20: cubbpggt
+	A: 36,eeltpimv
+21: ekwg1hov
+	A: 38,ylm95nec
+	B: 27,vcw5i8nh
+22: nhn19jwh
+	A: 31,kb6955fw
+23: mwt19jcs
+	A: 50,abnoknrj
+24: 00n1uv6u
+	A: 25,c6j85qj0
+25: c6j85qj0
+	A: 22,nhn19jwh
+26: g7rpih6z
+	A: 30,ebvr8k1l
+27: vcw5i8nh
+	A: 40,dd97mow6
+28: e4269wle
+	A: 5,r8pf8jl6
+29: 85x0y1vt
+	A: 3,bpxe6bgv
+30: ebvr8k1l
+	A: 33,2nq4qw94
+31: kb6955fw
+	A: 37,4ag97hck
+32: rns8yz7t
+	A: exit
+33: 2nq4qw94
+	A: 45,c5x2orh7
+34: eiresbur
+	A: 22,nhn19jwh
+35: 1cv2dpd3
+	A: 11,5lzntt48
+36: eeltpimv
+	A: 7,704kinga
+37: 4ag97hck
+	A: 40,dd97mow6
+38: ylm95nec
+	A: 8,sx8glkp7
+39: 7hsrzkvv
+	A: 7,704kinga
+40: dd97mow6
+	A: 21,ekwg1hov
+41: llp1sr71
+	A: 50,abnoknrj
+	B: 42,coxrqd7z
+42: coxrqd7z
+	A: 46,bqufkljc
+43: la4xdkhr
+	A: 11,5lzntt48
+44: pybdactf
+	A: 13,nl6z0n3e
+45: c5x2orh7
+	A: 19,1wlkir1d
+46: bqufkljc
+	A: 19,1wlkir1d
+47: bundi87l
+	A: 47,bundi87l
+48: 0azjmyoa
+	A: 31,kb6955fw
+49: swu8ndyc
+	A: 37,4ag97hck
+50: abnoknrj
+	A: exit
